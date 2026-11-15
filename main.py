@@ -1,5 +1,5 @@
 '''
-Femboyed by oAaron#0001
+Femboyed by 0001
 '''
 from discord import Permissions
 import discord,random,time
