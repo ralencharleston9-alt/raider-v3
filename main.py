@@ -1,5 +1,5 @@
 '''
-Femboyed by 0001
+dying by Destroy MSC#1322
 '''
 from discord import Permissions
 import discord,random,time
